@@ -2,8 +2,8 @@
 
 This is sample code to accompany the DevGab video tutorial: 
 
-Getting Started with Claude and Ruby: Setting Up Your Environment \
-- [youtube link]
+Getting Started with Claude and Ruby: Setting Up Your Environment
+- [youtube link](https://www.youtube.com/watch?v=cH-985gB2MY)
 - [blog link](https://www.devgab.com/guides/getting-started-with-claude-and-ruby/)
 
 Watch the video for instructions how to setup your ruby environment to work with Anthropic's Claude, and the claude-ruby gem.

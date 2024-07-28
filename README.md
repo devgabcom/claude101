@@ -15,3 +15,7 @@ Once you've setup your environment and have an Anthropic API key, then you can r
 
     response = claude.messages(claude.user_message(message))
     y AiAgent.new.format_claude_response(response)
+
+## Video:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cH-985gB2MY/hqdefault.jpg)](https://www.youtube.com/watch?v=cH-985gB2MY)
